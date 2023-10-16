@@ -1,6 +1,6 @@
 {
   "name": "@aleksandrpetrov89/ajs",
-  "version": "1.0.5",
+  "version": "1.0.10",
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
