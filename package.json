@@ -1,0 +1,19 @@
+{
+  "name": "@aleksandrpetrov89/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandrPetrov89/ajs.git"
+  },
+  "author": "Aleksandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandrPetrov89/ajs/issues"
+  },
+  "homepage": "https://github.com/AleksandrPetrov89/ajs#readme"
+}
